@@ -103,7 +103,7 @@ export default function Itinerary() {
                       <div 
                         className={`w-6 h-6 rounded-full border-4 transition-all duration-700 ${
                           isVisible 
-                            ? "bg-wedding-gold border-wedding-gold shadow-[0_0_20px_rgba(244,196,48,0.8)] scale-110" 
+                            ? "bg-white border-wedding-gold shadow-[0_0_30px_rgba(255,215,0,1),0_0_50px_rgba(244,196,48,0.6)] scale-110" 
                             : "bg-wedding-gray border-wedding-gold/20 scale-75"
                         }`}
                       >
@@ -113,7 +113,7 @@ export default function Itinerary() {
                       </div>
                     </div>
 
-                    <div className="md:w-1/2">
+                    <div className="md:w-1/2 relative z-20">
                       <Card className={`bg-wedding-gray border-wedding-gold/40 p-8 transition-all duration-700 shadow-xl ${
                         isVisible ? "border-wedding-gold/70 shadow-wedding-gold/20" : ""
                       }`}>
