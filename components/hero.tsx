@@ -25,7 +25,7 @@ export default function Hero() {
         ))}
       </div>
 
-      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex flex-col justify-center items-center text-center py-20">
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex flex-col justify-center items-center text-center pt-40 pb-20">
         <h1 className="text-5xl md:text-7xl font-bold text-wedding-gold mb-3 animate-glow text-balance tracking-wider">
           THE WEDDING OF
         </h1>
