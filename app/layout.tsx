@@ -8,7 +8,7 @@ const _playfairDisplay = Playfair_Display({ subsets: ["latin"], variable: "--fon
 const _poppins = Poppins({ weight: ["400", "500", "600", "700"], subsets: ["latin"], variable: "--font-sans" })
 
 export const metadata: Metadata = {
-  title: "Anee & Rajesh Wedding Celebration",
+  title: "Joba and Suto Wedding Celebration",
   description: "Join us for a beautiful celebration of love and togetherness",
   generator: "v0.app",
   icons: {
