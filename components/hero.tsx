@@ -26,8 +26,8 @@ export default function Hero() {
       </div>
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex flex-col justify-center items-center text-center py-20">
-        <h1 className="text-4xl md:text-6xl font-bold text-wedding-gold mb-3 animate-glow text-balance tracking-wider">
-          WELCOME TO JOBA-SUTO'S 25TH ANNIVERSARY
+        <h1 className="text-5xl md:text-7xl font-bold text-wedding-gold mb-3 animate-glow text-balance tracking-wider">
+          THE WEDDING OF
         </h1>
 
         <div className="mb-10">
